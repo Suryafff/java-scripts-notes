@@ -1,0 +1,65 @@
+*{
+    margin:0%;
+    padding:0%;
+ /* background-Color:#DF80CA;  */
+}
+
+.container{
+    border:2px solid black;
+    margin-top:8%;
+    width:80%;
+    margin-left:8%;
+    height:auto;
+    padding:2%;
+    
+}
+.container>h1{
+    text-align:center;
+    padding-bottom:3%;
+}
+.box{
+    /* border:2px solid black; */
+    padding:3%;
+    width:80%;
+    margin-left:3%;
+    
+}
+.box>input{
+    height:28px;
+    width:40%;
+
+}
+.box>button{
+    height:30px;
+    width:45px;
+    background-Color:blue;
+    Color:#fff;
+
+}
+.come{
+    font-size:28px;
+  width:80%;
+    margin-top:1%;
+    margin-left:8%;
+    /* border:2px solid black; */
+}
+.todo{
+    /* border:2px solid black; */
+    width:100%;
+
+}
+.todo>input{
+margin:3%;
+}
+.remove>button{
+    height:35px;
+    width:60px;
+    background-Color:blue;
+    Color:#fff;
+}
+#reset{
+  width:50px;
+height:25px;
+background-Color:blue;
+color:#fff;
+}
